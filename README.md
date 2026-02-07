@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/KumarSubodh12/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KumarSubodh12/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0641-design-circular-deque](https://github.com/KumarSubodh12/leetcode/tree/master/0641-design-circular-deque) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/KumarSubodh12/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/KumarSubodh12/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/KumarSubodh12/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Greedy
 |  |
