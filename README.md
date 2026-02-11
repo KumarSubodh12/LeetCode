@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-trionic-array-i](https://github.com/KumarSubodh12/leetcode/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/KumarSubodh12/leetcode/tree/master/3640-trionic-array-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/KumarSubodh12/leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/KumarSubodh12/leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3454-separate-squares-ii](https://github.com/KumarSubodh12/leetcode/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/KumarSubodh12/leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/KumarSubodh12/leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Line Sweep
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/KumarSubodh12/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/KumarSubodh12/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/KumarSubodh12/leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/KumarSubodh12/leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/KumarSubodh12/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/KumarSubodh12/leetcode/tree/master/1895-largest-magic-square) |
 | [3719-longest-balanced-subarray-i](https://github.com/KumarSubodh12/leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/KumarSubodh12/leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## String
 |  |
 | ------- |
@@ -217,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/KumarSubodh12/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/KumarSubodh12/leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/KumarSubodh12/leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
