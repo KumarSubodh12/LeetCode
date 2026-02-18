@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/KumarSubodh12/leetcode/tree/master/0089-gray-code) |
 | [0287-find-the-duplicate-number](https://github.com/KumarSubodh12/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0401-binary-watch](https://github.com/KumarSubodh12/leetcode/tree/master/0401-binary-watch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/KumarSubodh12/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 ## Array
 |  |
 | ------- |
