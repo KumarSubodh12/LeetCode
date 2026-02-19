@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/KumarSubodh12/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/KumarSubodh12/leetcode/tree/master/1713-minimum-operations-to-make-a-subsequence) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/KumarSubodh12/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/KumarSubodh12/leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/KumarSubodh12/leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/KumarSubodh12/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/KumarSubodh12/leetcode/tree/master/0071-simplify-path) |
 | [0345-reverse-vowels-of-a-string](https://github.com/KumarSubodh12/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/KumarSubodh12/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/KumarSubodh12/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/KumarSubodh12/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/KumarSubodh12/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/KumarSubodh12/leetcode/tree/master/3713-longest-balanced-substring-i) |
