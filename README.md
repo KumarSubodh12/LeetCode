@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/KumarSubodh12/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/KumarSubodh12/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/KumarSubodh12/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/KumarSubodh12/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/KumarSubodh12/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Array
 |  |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/KumarSubodh12/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/KumarSubodh12/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0761-special-binary-string](https://github.com/KumarSubodh12/leetcode/tree/master/0761-special-binary-string) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/KumarSubodh12/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/KumarSubodh12/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/KumarSubodh12/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/KumarSubodh12/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/KumarSubodh12/leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/KumarSubodh12/leetcode/tree/master/0067-add-binary) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/KumarSubodh12/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1560-most-visited-sector-in-a-circular-track](https://github.com/KumarSubodh12/leetcode/tree/master/1560-most-visited-sector-in-a-circular-track) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/KumarSubodh12/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/KumarSubodh12/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
