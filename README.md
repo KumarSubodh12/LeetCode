@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/KumarSubodh12/leetcode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/KumarSubodh12/leetcode/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KumarSubodh12/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0204-count-primes](https://github.com/KumarSubodh12/leetcode/tree/master/0204-count-primes) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/KumarSubodh12/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/KumarSubodh12/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/KumarSubodh12/leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/KumarSubodh12/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/KumarSubodh12/leetcode/tree/master/0054-spiral-matrix) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KumarSubodh12/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0204-count-primes](https://github.com/KumarSubodh12/leetcode/tree/master/0204-count-primes) |
 | [0287-find-the-duplicate-number](https://github.com/KumarSubodh12/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/KumarSubodh12/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/KumarSubodh12/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/KumarSubodh12/leetcode/tree/master/0204-count-primes) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/KumarSubodh12/leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/KumarSubodh12/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3713-longest-balanced-substring-i](https://github.com/KumarSubodh12/leetcode/tree/master/3713-longest-balanced-substring-i) |
@@ -309,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/KumarSubodh12/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/KumarSubodh12/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
