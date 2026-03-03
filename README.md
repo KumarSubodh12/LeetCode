@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/KumarSubodh12/leetcode/tree/master/0761-special-binary-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/KumarSubodh12/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/KumarSubodh12/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/KumarSubodh12/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/KumarSubodh12/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/KumarSubodh12/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/KumarSubodh12/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/KumarSubodh12/leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/KumarSubodh12/leetcode/tree/master/0067-add-binary) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/KumarSubodh12/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/KumarSubodh12/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1560-most-visited-sector-in-a-circular-track](https://github.com/KumarSubodh12/leetcode/tree/master/1560-most-visited-sector-in-a-circular-track) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/KumarSubodh12/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/KumarSubodh12/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -321,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/KumarSubodh12/leetcode/tree/master/0204-count-primes) |
+## Recursion
+|  |
+| ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/KumarSubodh12/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
