@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/KumarSubodh12/leetcode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/KumarSubodh12/leetcode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/KumarSubodh12/leetcode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/KumarSubodh12/leetcode/tree/master/0089-gray-code) |
