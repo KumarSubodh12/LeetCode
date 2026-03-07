@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/KumarSubodh12/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/KumarSubodh12/leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/KumarSubodh12/leetcode/tree/master/0204-count-primes) |
+| [0504-base-7](https://github.com/KumarSubodh12/leetcode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/KumarSubodh12/leetcode/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/KumarSubodh12/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/KumarSubodh12/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/KumarSubodh12/leetcode/tree/master/0071-simplify-path) |
 | [0171-excel-sheet-column-number](https://github.com/KumarSubodh12/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/KumarSubodh12/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0504-base-7](https://github.com/KumarSubodh12/leetcode/tree/master/0504-base-7) |
 | [0680-valid-palindrome-ii](https://github.com/KumarSubodh12/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0761-special-binary-string](https://github.com/KumarSubodh12/leetcode/tree/master/0761-special-binary-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/KumarSubodh12/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
