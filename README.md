@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/KumarSubodh12/leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/KumarSubodh12/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/KumarSubodh12/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/KumarSubodh12/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/KumarSubodh12/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/KumarSubodh12/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/KumarSubodh12/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/KumarSubodh12/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/KumarSubodh12/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/KumarSubodh12/leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Queue
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/KumarSubodh12/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/KumarSubodh12/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/KumarSubodh12/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/KumarSubodh12/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3640-trionic-array-ii](https://github.com/KumarSubodh12/leetcode/tree/master/3640-trionic-array-ii) |
 ## Trie
