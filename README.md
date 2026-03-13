@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/KumarSubodh12/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/KumarSubodh12/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/KumarSubodh12/leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/KumarSubodh12/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/KumarSubodh12/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Backtracking
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/KumarSubodh12/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/KumarSubodh12/leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/KumarSubodh12/leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/KumarSubodh12/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3454-separate-squares-ii](https://github.com/KumarSubodh12/leetcode/tree/master/3454-separate-squares-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/KumarSubodh12/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/KumarSubodh12/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/KumarSubodh12/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/KumarSubodh12/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/KumarSubodh12/leetcode/tree/master/1713-minimum-operations-to-make-a-subsequence) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/KumarSubodh12/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3454-separate-squares-ii](https://github.com/KumarSubodh12/leetcode/tree/master/3454-separate-squares-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/KumarSubodh12/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Segment Tree
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/KumarSubodh12/leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/KumarSubodh12/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/KumarSubodh12/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/KumarSubodh12/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Simulation
@@ -257,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/KumarSubodh12/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/KumarSubodh12/leetcode/tree/master/1713-minimum-operations-to-make-a-subsequence) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/KumarSubodh12/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/KumarSubodh12/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/KumarSubodh12/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Sorting
 |  |
