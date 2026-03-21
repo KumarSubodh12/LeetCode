@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/KumarSubodh12/leetcode/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/KumarSubodh12/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/KumarSubodh12/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0866-prime-palindrome](https://github.com/KumarSubodh12/leetcode/tree/master/0866-prime-palindrome) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/KumarSubodh12/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/KumarSubodh12/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/KumarSubodh12/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/KumarSubodh12/leetcode/tree/master/0204-count-primes) |
+| [0866-prime-palindrome](https://github.com/KumarSubodh12/leetcode/tree/master/0866-prime-palindrome) |
 ## Recursion
 |  |
 | ------- |
