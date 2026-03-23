@@ -1,42 +1,39 @@
 class Solution {
     public int maxProductPath(int[][] grid) {
         int m = grid.length, n = grid[0].length;
-        long[][] maxDp = new long[m][n];
-        long[][] minDp = new long[m][n];
+        long MOD = 1000000007;
 
-        maxDp[0][0] = minDp[0][0] = grid[0][0];
+        long[][] mx = new long[m][n];
+        long[][] mn = new long[m][n];
 
-        // First row
+        mx[0][0] = mn[0][0] = grid[0][0];
+
+        // first row
         for (int j = 1; j < n; j++) {
-            maxDp[0][j] = maxDp[0][j-1] * grid[0][j];
-            minDp[0][j] = maxDp[0][j];
+            mx[0][j] = mn[0][j] = mx[0][j - 1] * grid[0][j];
         }
 
-        // First column
+        // first column
         for (int i = 1; i < m; i++) {
-            maxDp[i][0] = maxDp[i-1][0] * grid[i][0];
-            minDp[i][0] = maxDp[i][0];
+            mx[i][0] = mn[i][0] = mx[i - 1][0] * grid[i][0];
         }
 
-        // Fill DP
         for (int i = 1; i < m; i++) {
             for (int j = 1; j < n; j++) {
-                long val = grid[i][j];
+                long x = grid[i][j];
 
-                long a = val * maxDp[i-1][j];
-                long b = val * minDp[i-1][j];
-                long c = val * maxDp[i][j-1];
-                long d = val * minDp[i][j-1];
+                long a = mx[i - 1][j] * x;
+                long b = mn[i - 1][j] * x;
+                long c = mx[i][j - 1] * x;
+                long d = mn[i][j - 1] * x;
 
-                maxDp[i][j] = Math.max(Math.max(a, b), Math.max(c, d));
-                minDp[i][j] = Math.min(Math.min(a, b), Math.min(c, d));
+                mx[i][j] = Math.max(Math.max(a, b), Math.max(c, d));
+                mn[i][j] = Math.min(Math.min(a, b), Math.min(c, d));
             }
         }
 
-        long result = maxDp[m-1][n-1];
-
-        if (result < 0) return -1;
-
-        return (int)(result % 1000000007);
+        long ans = mx[m - 1][n - 1];
+        if (ans < 0) return -1;
+        return (int)(ans % MOD);
     }
 }
