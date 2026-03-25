@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KumarSubodh12/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/KumarSubodh12/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/KumarSubodh12/leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/KumarSubodh12/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/KumarSubodh12/leetcode/tree/master/0054-spiral-matrix) |
 | [0119-pascals-triangle-ii](https://github.com/KumarSubodh12/leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/KumarSubodh12/leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/KumarSubodh12/leetcode/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KumarSubodh12/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0901-online-stock-span](https://github.com/KumarSubodh12/leetcode/tree/master/0901-online-stock-span) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/KumarSubodh12/leetcode/tree/master/0042-trapping-rain-water) |
 | [0901-online-stock-span](https://github.com/KumarSubodh12/leetcode/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KumarSubodh12/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/KumarSubodh12/leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/KumarSubodh12/leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/KumarSubodh12/leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/KumarSubodh12/leetcode/tree/master/0202-happy-number) |
@@ -341,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/KumarSubodh12/leetcode/tree/master/0042-trapping-rain-water) |
 | [0119-pascals-triangle-ii](https://github.com/KumarSubodh12/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/KumarSubodh12/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/KumarSubodh12/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
