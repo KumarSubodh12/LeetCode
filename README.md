@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/KumarSubodh12/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0641-design-circular-deque](https://github.com/KumarSubodh12/leetcode/tree/master/0641-design-circular-deque) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/KumarSubodh12/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0874-walking-robot-simulation](https://github.com/KumarSubodh12/leetcode/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/KumarSubodh12/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/KumarSubodh12/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0994-rotting-oranges](https://github.com/KumarSubodh12/leetcode/tree/master/0994-rotting-oranges) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/KumarSubodh12/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/KumarSubodh12/leetcode/tree/master/0202-happy-number) |
 | [0560-subarray-sum-equals-k](https://github.com/KumarSubodh12/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0874-walking-robot-simulation](https://github.com/KumarSubodh12/leetcode/tree/master/0874-walking-robot-simulation) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/KumarSubodh12/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/KumarSubodh12/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/KumarSubodh12/leetcode/tree/master/1713-minimum-operations-to-make-a-subsequence) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/KumarSubodh12/leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/KumarSubodh12/leetcode/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/KumarSubodh12/leetcode/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/KumarSubodh12/leetcode/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/KumarSubodh12/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/KumarSubodh12/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1560-most-visited-sector-in-a-circular-track](https://github.com/KumarSubodh12/leetcode/tree/master/1560-most-visited-sector-in-a-circular-track) |
