@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/KumarSubodh12/leetcode/tree/master/0641-design-circular-deque) |
 | [0901-online-stock-span](https://github.com/KumarSubodh12/leetcode/tree/master/0901-online-stock-span) |
 | [1622-fancy-sequence](https://github.com/KumarSubodh12/leetcode/tree/master/1622-fancy-sequence) |
+| [2069-walking-robot-simulation-ii](https://github.com/KumarSubodh12/leetcode/tree/master/2069-walking-robot-simulation-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/KumarSubodh12/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1560-most-visited-sector-in-a-circular-track](https://github.com/KumarSubodh12/leetcode/tree/master/1560-most-visited-sector-in-a-circular-track) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/KumarSubodh12/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2069-walking-robot-simulation-ii](https://github.com/KumarSubodh12/leetcode/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/KumarSubodh12/leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/KumarSubodh12/leetcode/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/KumarSubodh12/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
