@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/KumarSubodh12/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/KumarSubodh12/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3454-separate-squares-ii](https://github.com/KumarSubodh12/leetcode/tree/master/3454-separate-squares-ii) |
+| [3488-closest-equal-element-queries](https://github.com/KumarSubodh12/leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/KumarSubodh12/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/KumarSubodh12/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/KumarSubodh12/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/KumarSubodh12/leetcode/tree/master/1713-minimum-operations-to-make-a-subsequence) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/KumarSubodh12/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3454-separate-squares-ii](https://github.com/KumarSubodh12/leetcode/tree/master/3454-separate-squares-ii) |
+| [3488-closest-equal-element-queries](https://github.com/KumarSubodh12/leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/KumarSubodh12/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/KumarSubodh12/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Segment Tree
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/KumarSubodh12/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/KumarSubodh12/leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/KumarSubodh12/leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3488-closest-equal-element-queries](https://github.com/KumarSubodh12/leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/KumarSubodh12/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/KumarSubodh12/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/KumarSubodh12/leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
