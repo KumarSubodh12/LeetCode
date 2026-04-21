@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/KumarSubodh12/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/KumarSubodh12/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/KumarSubodh12/leetcode/tree/master/1713-minimum-operations-to-make-a-subsequence) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/KumarSubodh12/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/KumarSubodh12/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/KumarSubodh12/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/KumarSubodh12/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/KumarSubodh12/leetcode/tree/master/0110-balanced-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/KumarSubodh12/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/KumarSubodh12/leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/KumarSubodh12/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Binary Tree
 |  |
 | ------- |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/KumarSubodh12/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/KumarSubodh12/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/KumarSubodh12/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/KumarSubodh12/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
