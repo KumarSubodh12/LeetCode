@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/KumarSubodh12/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/KumarSubodh12/leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/KumarSubodh12/leetcode/tree/master/0204-count-primes) |
+| [0396-rotate-function](https://github.com/KumarSubodh12/leetcode/tree/master/0396-rotate-function) |
 | [0504-base-7](https://github.com/KumarSubodh12/leetcode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/KumarSubodh12/leetcode/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/KumarSubodh12/leetcode/tree/master/0633-sum-of-square-numbers) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/KumarSubodh12/leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/KumarSubodh12/leetcode/tree/master/0204-count-primes) |
 | [0287-find-the-duplicate-number](https://github.com/KumarSubodh12/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0396-rotate-function](https://github.com/KumarSubodh12/leetcode/tree/master/0396-rotate-function) |
 | [0485-max-consecutive-ones](https://github.com/KumarSubodh12/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/KumarSubodh12/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0641-design-circular-deque](https://github.com/KumarSubodh12/leetcode/tree/master/0641-design-circular-deque) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KumarSubodh12/leetcode/tree/master/0042-trapping-rain-water) |
 | [0119-pascals-triangle-ii](https://github.com/KumarSubodh12/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0396-rotate-function](https://github.com/KumarSubodh12/leetcode/tree/master/0396-rotate-function) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/KumarSubodh12/leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/KumarSubodh12/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/KumarSubodh12/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
