@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/KumarSubodh12/leetcode/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/KumarSubodh12/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/KumarSubodh12/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0788-rotated-digits](https://github.com/KumarSubodh12/leetcode/tree/master/0788-rotated-digits) |
 | [0866-prime-palindrome](https://github.com/KumarSubodh12/leetcode/tree/master/0866-prime-palindrome) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/KumarSubodh12/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/KumarSubodh12/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/KumarSubodh12/leetcode/tree/master/0042-trapping-rain-water) |
 | [0119-pascals-triangle-ii](https://github.com/KumarSubodh12/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0396-rotate-function](https://github.com/KumarSubodh12/leetcode/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/KumarSubodh12/leetcode/tree/master/0788-rotated-digits) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/KumarSubodh12/leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/KumarSubodh12/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/KumarSubodh12/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
