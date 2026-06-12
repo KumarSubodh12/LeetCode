@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/KumarSubodh12/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/KumarSubodh12/leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/KumarSubodh12/leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/KumarSubodh12/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/KumarSubodh12/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/KumarSubodh12/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/KumarSubodh12/leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/KumarSubodh12/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/KumarSubodh12/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/KumarSubodh12/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/KumarSubodh12/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Array
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/KumarSubodh12/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/KumarSubodh12/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/KumarSubodh12/leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/KumarSubodh12/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/KumarSubodh12/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/KumarSubodh12/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/KumarSubodh12/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -532,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/KumarSubodh12/leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/KumarSubodh12/leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/KumarSubodh12/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/KumarSubodh12/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3640-trionic-array-ii](https://github.com/KumarSubodh12/leetcode/tree/master/3640-trionic-array-ii) |
 | [3660-jump-game-ix](https://github.com/KumarSubodh12/leetcode/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/KumarSubodh12/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -562,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/KumarSubodh12/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/KumarSubodh12/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/KumarSubodh12/leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/KumarSubodh12/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -573,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/KumarSubodh12/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/KumarSubodh12/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/KumarSubodh12/leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/KumarSubodh12/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
 |  |
 | ------- |
