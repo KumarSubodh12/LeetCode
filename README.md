@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/KumarSubodh12/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0901-online-stock-span](https://github.com/KumarSubodh12/leetcode/tree/master/0901-online-stock-span) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/KumarSubodh12/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/KumarSubodh12/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/KumarSubodh12/leetcode/tree/master/2751-robot-collisions) |
 ## Design
 |  |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/KumarSubodh12/leetcode/tree/master/0206-reverse-linked-list) |
 | [0641-design-circular-deque](https://github.com/KumarSubodh12/leetcode/tree/master/0641-design-circular-deque) |
 | [0876-middle-of-the-linked-list](https://github.com/KumarSubodh12/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/KumarSubodh12/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/KumarSubodh12/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/KumarSubodh12/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Heap (Priority Queue)
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/KumarSubodh12/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/KumarSubodh12/leetcode/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/KumarSubodh12/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/KumarSubodh12/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/KumarSubodh12/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/KumarSubodh12/leetcode/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/KumarSubodh12/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
