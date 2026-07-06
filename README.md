@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/KumarSubodh12/leetcode/tree/master/0994-rotting-oranges) |
 | [1200-minimum-absolute-difference](https://github.com/KumarSubodh12/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/KumarSubodh12/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1288-remove-covered-intervals](https://github.com/KumarSubodh12/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/KumarSubodh12/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/KumarSubodh12/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1306-jump-game-iii](https://github.com/KumarSubodh12/leetcode/tree/master/1306-jump-game-iii) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/KumarSubodh12/leetcode/tree/master/0169-majority-element) |
 | [0761-special-binary-string](https://github.com/KumarSubodh12/leetcode/tree/master/0761-special-binary-string) |
 | [1200-minimum-absolute-difference](https://github.com/KumarSubodh12/leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1288-remove-covered-intervals](https://github.com/KumarSubodh12/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/KumarSubodh12/leetcode/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/KumarSubodh12/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/KumarSubodh12/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
