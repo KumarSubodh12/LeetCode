@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/KumarSubodh12/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0994-rotting-oranges](https://github.com/KumarSubodh12/leetcode/tree/master/0994-rotting-oranges) |
 | [1200-minimum-absolute-difference](https://github.com/KumarSubodh12/leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1260-shift-2d-grid](https://github.com/KumarSubodh12/leetcode/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/KumarSubodh12/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/KumarSubodh12/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/KumarSubodh12/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/KumarSubodh12/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/KumarSubodh12/leetcode/tree/master/0054-spiral-matrix) |
 | [0994-rotting-oranges](https://github.com/KumarSubodh12/leetcode/tree/master/0994-rotting-oranges) |
+| [1260-shift-2d-grid](https://github.com/KumarSubodh12/leetcode/tree/master/1260-shift-2d-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/KumarSubodh12/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/KumarSubodh12/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/KumarSubodh12/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/KumarSubodh12/leetcode/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/KumarSubodh12/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/KumarSubodh12/leetcode/tree/master/0874-walking-robot-simulation) |
+| [1260-shift-2d-grid](https://github.com/KumarSubodh12/leetcode/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/KumarSubodh12/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/KumarSubodh12/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1560-most-visited-sector-in-a-circular-track](https://github.com/KumarSubodh12/leetcode/tree/master/1560-most-visited-sector-in-a-circular-track) |
